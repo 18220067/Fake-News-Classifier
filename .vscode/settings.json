@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1ba36a93-cd97-4c98-a209-9c40c6ad420f/AppServices/subscriptions/1ba36a93-cd97-4c98-a209-9c40c6ad420f/resourceGroups/tugas_besar/providers/Microsoft.Web/sites/newsClassifier",
+    "appService.deploySubpath": "."
+}
